@@ -15,6 +15,10 @@
 <div align="center">
    <table>
     <tr>
+        <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=c" alt="C" width="48" height="48" />
+        <br>C
+      </td>
       <td align="center" width="12.5%">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
         <br>C++
@@ -48,45 +52,45 @@
   <table>
     <tr>
       <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" />
+        <img src="https://github.com/user-attachments/assets/f551da8c-74cc-4330-96be-5badb1df8e84" alt="React" width="48" height="48" />
         <br>React
       </td>
       <td align="center" width="12.5%">
-         <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="48" height="48" />
+         <img src="https://github.com/user-attachments/assets/53035342-b052-49b8-8a21-17e489bba44b" alt="TypeScript" width="48" height="48" />
         <br>TypeScript
       </td>
       <td align="center" width="12.5%">
-         <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="48" height="48" />
+         <img src="https://github.com/user-attachments/assets/afaa8ab7-f773-40e6-b594-615d95657cbb" alt="JavaScript" width="48" height="48" />
         <br>JavaScript
       </td>
       <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
+        <img src="https://github.com/user-attachments/assets/4a68a602-68ed-4a7a-b36e-420d280e203b" alt="Next.js" width="48" height="48" />
         <br>Next.js
       </td>
       <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" height="48" />
+        <img src="https://github.com/user-attachments/assets/898b947a-9c6c-4360-bc36-0d0400e10aca" alt="Tailwind" width="48" height="48" />
         <br>Tailwind
       </td>
       <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" height="48" />
+        <img src="https://github.com/user-attachments/assets/f640d03b-4f54-441e-bd9b-8033ea3557e9" alt="Bootstrap" width="48" height="48" />
         <br>Bootstrap
       </td>
       <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
+        <img src="https://github.com/user-attachments/assets/869d08cc-a3ab-4eb3-a2de-4e2338c12faf" alt="Node.js" width="48" height="48" />
         <br>Node.js
       </td>
       <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48" />
+        <img src="https://github.com/user-attachments/assets/1a4bd611-8b9e-427d-92cf-6051374b50cc" alt="HTML5" width="48" height="48" />
         <br>HTML
       </td>
     </tr>
     <tr>
       <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48" />
+        <img src="https://github.com/user-attachments/assets/a28e13db-4bc7-4302-a178-1c6eda81e495" alt="CSS" width="48" height="48" />
         <br>CSS
       </td>
       <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=express" alt="Express" width="48" height="48" />
+        <img src="https://github.com/user-attachments/assets/b1160170-17b7-4cec-bf4b-9203f83f1279" alt="Express" width="48" height="48" />
         <br>Express
       </td>
       <td align="center" width="12.5%">
@@ -94,11 +98,15 @@
         <br>Prisma
       </td>
       <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="48" height="48" />
+        <img src="https://github.com/user-attachments/assets/1c1da0ae-3238-491d-b023-c3c9d06f454c" alt="Angular" width="48" height="48" />
         <br>Angular
       </td>
+        <td align="center" width="12.5%">
+        <img src="https://github.com/user-attachments/assets/9ac09900-2750-4c23-8a7e-04b3545dc523" alt="SpringBoot" width="48" height="48" />
+        <br>SpringBoot
+      </td>
        <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=php" alt="php" width="48" height="48" />
+        <img src="https://github.com/user-attachments/assets/fd7a724b-cb44-40ca-90bb-6391e99d0209" alt="php" width="48" height="48" />
         <br>php
       </td>
     </tr>
@@ -111,23 +119,23 @@
     <table>
     <tr>
       <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=pandas" alt="Firebase" width="48" height="48" />
+        <img src="https://github.com/user-attachments/assets/a4128f1d-9065-45cd-9c25-90fb146fe25c" alt="Pandas" width="48" height="48" />
         <br>Pandas
       </td>
       <td align="center" width="12.5%">
-         <img src="https://skillicons.dev/icons?i=numpy" alt="Firebase" width="48" height="48" />
+         <img src="https://github.com/user-attachments/assets/9d37afbb-21e0-426a-a7cc-3e236c8313ab" alt="Numpy" width="48" height="48" />
         <br>NumPy
       </td>
       <td align="center" width="12.5%">
-         <img src="https://skillicons.dev/icons?i=opencv" alt="Firebase" width="48" height="48" />
+         <img src="https://github.com/user-attachments/assets/e35c299b-0170-48fb-b2bb-d78b2ce75128" alt="OpenCV" width="48" height="48" />
         <br>OpenCV
       </td>
       <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=tensorflow" alt="Tensorflow" width="48" height="48" />
+        <img src="https://github.com/user-attachments/assets/a69d9a70-5491-450f-8a7d-84383ec6f692" alt="Tensorflow" width="48" height="48" />
         <br>Tensorflow
       </td>
       <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=keras" alt="Tensorflow" width="48" height="48" />
+        <img src="https://github.com/user-attachments/assets/74338334-93f9-4ba3-b67b-74bea77ab693" alt="Keras" width="48" height="48" />
         <br>Keras
       </td>
       <td align="center" width="12.5%">
@@ -159,6 +167,10 @@
       <td align="center" width="12.5%">
         <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="48" height="48" />
         <br>Firebase
+      </td>
+       <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" width="48" height="48" />
+        <br>Hibernate
       </td>
        <td align="center" width="12.5%">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
