@@ -1,90 +1,97 @@
 # 👋 Hi! I'm **Garima Uttam** 💫
-Welcome to my GitHub profile! 🚀✨ 
+### Electronics & CS Enthusiast | Full-Stack Developer | Competitive Programmer | ML Practitioner
 
-👩🏻‍💻 I am currently pursuing **B.Tech (ECE)** at **IIITDM Jabalpur**.
-
-🌍️ I’m a passionate developer, creative thinker, and lifelong learner who's always ready to explore new horizons in tech. I code not just to build, but to innovate, collaborate, and make an impact!
-
-💻 I'm a **Dev enthusiast** at heart, specializing in full-stack development and problem-solving.
-
-🤝 I love contributing to **Open Source** projects and being part of vibrant coding communities.
-
-🎨 I'm also interested in **UI/UX design**—creating beautiful, intuitive interfaces that deliver seamless user experiences.
-
-![Visitor Count](https://komarev.com/ghpvc/?username=GarimaUttam&label=Profile%20views&color=0e75b6&style=flat) 
-[![GitHub followers](https://img.shields.io/github/followers/GarimaUttam?label=Follow&style=social)](https://github.com/GarimaUttam)
-
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,go,javascript,typescript" alt="Programming Languages" />
-</div>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/garima-uttam)
 
-### Frontend Development
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" alt="Frontend Technologies" />
-</div>
-
-### Backend & Databases
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase" alt="Backend Technologies" />
-</div>
-
-### AI/ML & Data Science
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas,numpy" alt="AI/ML Technologies" />
-</div>
-
-### DevOps & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,figma" alt="DevOps Tools" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🎓 About Me
+- 🏫 **B.Tech in ECE** @ IIITDM Jabalpur (CGPA: 9.0/10)
+- 🏆 **JENESYS 2024 Ambassador** (Top 12 selected from India)
+- 📚 **Amazon ML Summer School 2024** Scholar
+- 💻 **Competitive Programmer** (Knight @ LeetCode, Specialist @ Codeforces)
+- 🚀 **Full-Stack Developer**
+- 🤖 **ML Enthusiast** 
 
+---
+
+## 🔧 Technical Arsenal
+
+### 💻 Programming Languages
 <div align="center">
-  
-  ![Garima's GitHub stats](https://github-readme-stats.vercel.app/api?username=GarimaUttam&show_icons=true&theme=radical)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GarimaUttam&layout=compact&theme=radical)
-  
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=GarimaUttam&theme=radical)
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GarimaUttam&theme=react-dark)
-  
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,go" alt="Languages" />
+</div>
+
+### 🌐 Web Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,mongodb,postgres,mysql,prisma" alt="Web Tech" />
+</div>
+
+### 🤖 AI/ML Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,keras,pytorch,firebase" alt="AI/ML" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI" />
+</div>
+
+### ⚙️ Tools & Platforms
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vscode,figma" alt="Tools" />
 </div>
 
 ---
+## 🚀 Highlight Projects
 
-## 🏆 GitHub Trophies
+### 📚 [Easy Study - LMS Platform](https://github.com/GarimaUttam/easy-study)
+**NextJS | Prisma | MySQL | Mux**  
+✔ Teacher/student dashboards  
+✔ HLS Video Player with Mux processing  
+✔ Drag-and-drop content organization  
+
+### 🍔 [Foody - Food Ordering System](https://github.com/GarimaUttam/foody)  
+**NextJS | MongoDB | Stripe**  
+✔ 3-tier hierarchy (customer/owner/admin)  
+✔ Secure payments with Stripe  
+✔ Google OAuth integration  
+
+### 🧠 [CourseCraft.ai - AI Learning Platform](https://github.com/GarimaUttam/coursecraft)  
+**Gemini AI | PostgreSQL | Clerk Auth**  
+✔ AI-generated courses with filters  
+✔ YouTube API integration for tutorials  
+✔ Note-editing functionality  
+
+### 🍋 [Lemon Quality Inspector](https://github.com/GarimaUttam/lemon-quality)  
+**TensorFlow | EfficientNet | OpenCV**  
+✔ 99.84% accuracy CNN model  
+✔ Processed 1,900+ training images  
+✔ Computer vision pipeline  
+
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GarimaUttam&theme=onedark&no-frame=true&row=2&column=4" alt="Garima's trophies" />
+  
+![Garima's Stats](https://github-readme-stats.vercel.app/api?username=GarimaUttam&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GarimaUttam&layout=compact&theme=radical&hide_border=true)
+
+![Streak Stats](https://streak-stats.demolab.com/?user=GarimaUttam&theme=radical&hide_border=true)
+
 </div>
 
 ---
-
-## 🔥 Recent Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1] in [repository]
-2. 🚀 Published new project [project-name]
-3. 🐛 Fixed bug in [issue]
-4. 🌟 Starred [awesome-repo]
-<!--END_SECTION:activity-->
-
----
+## 🏆 
 
 ## 📫 Let's Connect!
-<div align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
-  <a href="https://yourportfolio.com"><img src="https://skillicons.dev/icons?i=devto" alt="Portfolio" /></a>
-</div>
+- 📧 **Email**: garimauttam191203@gmail.com
+- 📱 **Mobile**: +91-898-2945-635
+- 💼 **LinkedIn**: [linkedin.com/in/garima-uttam](https://linkedin.com/in/garima-uttam)
+- 🐙 **GitHub**: [github.com/GarimaUttam](https://github.com/GarimaUttam)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
