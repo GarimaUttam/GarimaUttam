@@ -1,23 +1,13 @@
 # 👋 Hi! I'm **Garima Uttam** 💫
-### Electronics & CS Enthusiast | Full-Stack Developer | Competitive Programmer | ML Practitioner
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/garima-uttam)
-
-</div>
-
----
 
 ## 🎓 About Me
-- 🏫 **B.Tech in ECE** @ IIITDM Jabalpur (CGPA: 9.0/10)
+- 🏫 **B.Tech in ECE** @ IIITDM Jabalpur 
 - 🏆 **JENESYS 2024 Ambassador** (Top 12 selected from India)
 - 📚 **Amazon ML Summer School 2024** Scholar
 - 💻 **Competitive Programmer** (Knight @ LeetCode, Specialist @ Codeforces)
 - 🚀 **Full-Stack Developer**
 - 🤖 **ML Enthusiast** 
 
----
 
 ## 🔧 Technical Arsenal
 
@@ -76,11 +66,29 @@
 
 <div align="center">
   
-![Garima's Stats](https://github-readme-stats.vercel.app/api?username=GarimaUttam&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+<p align='center'>
+<img src='https://github-widgetbox.vercel.app/api/profile?username=GarimaUttam&theme=darkmode&data=followers,repositories,stars,commits' />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GarimaUttam&layout=compact&theme=radical&hide_border=true)
+<p align="center">
 
-![Streak Stats](https://streak-stats.demolab.com/?user=GarimaUttam&theme=radical&hide_border=true)
+
+<a href="https://github.com/GarimaUttam?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=GarimaUttam&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@GarimaUttam's github-readme-stats"/></a>
+<a href="https://github.com/GarimaUttamtab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=GarimaUttam&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@GarimaUttam's github-readme-streak-stats"/></a>
+
+</p>
+
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="[https://wakatime.com/@GarimaUttam](https://github-readme-activity-graph.vercel.app/graph?username=GarimaUttam&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo)">
+        </a>
+</p>
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarimaUttam&langs_count=10&theme=merko&layout=compact" width="45%" height="15%" alt="GarimaUttam :: Top Langs" />
+<a href="https://github.com/GarimaUttamtab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=GarimaUttam&theme=gitdimmed&no-frame=true&column=3&row=2"  width="48%" alt="Garima Uttam's trophies"/></a>
+</p>
 
 </div>
 
@@ -89,10 +97,12 @@
 
 ## 📫 Let's Connect!
 - 📧 **Email**: garimauttam191203@gmail.com
-- 📱 **Mobile**: +91-898-2945-635
-- 💼 **LinkedIn**: [linkedin.com/in/garima-uttam](https://linkedin.com/in/garima-uttam)
-- 🐙 **GitHub**: [github.com/GarimaUttam](https://github.com/GarimaUttam)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/garima-uttam)
+- ![Visitor Count](https://komarev.com/ghpvc/?username=GarimaUttam&label=Profile%20views&color=0e75b6&style=flat) 
+[![GitHub followers](https://img.shields.io/github/followers/GarimaUttam?label=Follow&style=social)](https://github.com/GarimaUttam)
+
+
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
 </p>
