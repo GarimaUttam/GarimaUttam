@@ -68,10 +68,10 @@ Welcome to my the GitHub! 🚀✨
 
 --- 
 
-### 🔥 My Top Open Source Projects:
+### 🔥 My Projects:
 
 <div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Doraemon012&repo=Saturn&theme=dark" alt="Saturn"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GarimaUttam&repo=Photoflow&theme=dark" alt="Photoflow"/>
 </div>
 
 
