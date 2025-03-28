@@ -68,28 +68,112 @@ Welcome to my the GitHub! 🚀✨
 
 --- 
 
-### 🔥 My Projects:
+## My Tech Stack 👨‍💻
 
-<div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GarimaUttam&repo=Photoflow&theme=dark" alt="Photoflow"/>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="12.5%">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        <br>React
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <br>Python
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=go" alt="Go" width="65" height="65" />
+        <br>Golang
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+        <br>C++
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+        <br>MySQL
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+        <br>AWS
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+        <br>Docker
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="12.5%">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+        <br>GitHub
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="48" height="48" />
+        <br>Git
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48" />
+        <br>HTML5
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48" />
+        <br>CSS
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" height="48" />
+        <br>Bootstrap
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" height="48" />
+        <br>Tailwind
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
+        <br>Node.js
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="65" height="65" />
+        <br>Jest
+      </td>
+      <!-- Add more items if needed -->
+  </table>
 </div>
+
 
 
 ---
 
 
 ### 🌟 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GarimaUttam&show_icons=true&theme=dark" alt="GitHub Stats" height="180px"/>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarimaUttam&layout=compact&theme=dark" alt="Top Languages" height="180px"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GarimaUttam&theme=dark" alt="GitHub Streaks" height="180px"/>
+# My GitHub Stats 📊
 
-</div>
+<p align='center'>
+<img src='https://github-widgetbox.vercel.app/api/profile?username=GarimaUttam&theme=darkmode&data=followers,repositories,stars,commits' />
+</p>
 
-<!-- <div align="center">
-   <!-- <a href="https://github.com/GarimaUttam/github-readme-activity-graph"><img alt="GarimaUttam's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=GarimaUttam&bg_color=2A3C60&color=4D8B8D&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<p align="center">
 
-   -->
+
+<a href="https://github.com/GarimaUttam?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=GarimaUttam&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@GarimaUttam's github-readme-stats"/></a>
+<a href="https://github.com/GarimaUttamtab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=GarimaUttam&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@GarimaUttam's github-readme-streak-stats"/></a>
+
+</p>
+
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="[https://wakatime.com/@GarimaUttam](https://github-readme-activity-graph.vercel.app/graph?username=GarimaUttam&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo)">
+        </a>
+</p>
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarimaUttam&langs_count=10&theme=merko&layout=compact" width="45%" height="15%" alt="GarimaUttam :: Top Langs" />
+<a href="https://github.com/GarimaUttamtab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=GarimaUttam&theme=gitdimmed&no-frame=true&column=3&row=2"  width="48%" alt="Garima Uttam's trophies"/></a>
+</p>
 
 ✨
