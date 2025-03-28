@@ -16,7 +16,7 @@
    <table>
     <tr>
         <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=c" alt="C" width="48" height="48" />
+        <img src="https://github.com/user-attachments/assets/61d26ad6-5cc5-42fb-aa66-13e1eb7853db" alt="C" width="48" height="48" />
         <br>C
       </td>
       <td align="center" width="12.5%">
@@ -55,13 +55,13 @@
         <img src="https://github.com/user-attachments/assets/f551da8c-74cc-4330-96be-5badb1df8e84" alt="React" width="48" height="48" />
         <br>React
       </td>
-      <td align="center" width="12.5%">
-         <img src="https://github.com/user-attachments/assets/53035342-b052-49b8-8a21-17e489bba44b" alt="TypeScript" width="48" height="48" />
-        <br>TypeScript
+       <td align="center" width="12.5%">
+        <img src="https://github.com/user-attachments/assets/1c1da0ae-3238-491d-b023-c3c9d06f454c" alt="Angular" width="48" height="48" />
+        <br>Angular
       </td>
-      <td align="center" width="12.5%">
-         <img src="https://github.com/user-attachments/assets/afaa8ab7-f773-40e6-b594-615d95657cbb" alt="JavaScript" width="48" height="48" />
-        <br>JavaScript
+        <td align="center" width="12.5%">
+        <img src="https://github.com/user-attachments/assets/9ac09900-2750-4c23-8a7e-04b3545dc523" alt="SpringBoot" width="48" height="48" />
+        <br>SpringBoot
       </td>
       <td align="center" width="12.5%">
         <img src="https://github.com/user-attachments/assets/4a68a602-68ed-4a7a-b36e-420d280e203b" alt="Next.js" width="48" height="48" />
@@ -72,16 +72,8 @@
         <br>Tailwind
       </td>
       <td align="center" width="12.5%">
-        <img src="https://github.com/user-attachments/assets/f640d03b-4f54-441e-bd9b-8033ea3557e9" alt="Bootstrap" width="48" height="48" />
-        <br>Bootstrap
-      </td>
-      <td align="center" width="12.5%">
         <img src="https://github.com/user-attachments/assets/869d08cc-a3ab-4eb3-a2de-4e2338c12faf" alt="Node.js" width="48" height="48" />
         <br>Node.js
-      </td>
-      <td align="center" width="12.5%">
-        <img src="https://github.com/user-attachments/assets/1a4bd611-8b9e-427d-92cf-6051374b50cc" alt="HTML5" width="48" height="48" />
-        <br>HTML
       </td>
     </tr>
     <tr>
@@ -97,17 +89,17 @@
         <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="48" height="48" />
         <br>Prisma
       </td>
-      <td align="center" width="12.5%">
-        <img src="https://github.com/user-attachments/assets/1c1da0ae-3238-491d-b023-c3c9d06f454c" alt="Angular" width="48" height="48" />
-        <br>Angular
-      </td>
-        <td align="center" width="12.5%">
-        <img src="https://github.com/user-attachments/assets/9ac09900-2750-4c23-8a7e-04b3545dc523" alt="SpringBoot" width="48" height="48" />
-        <br>SpringBoot
-      </td>
        <td align="center" width="12.5%">
         <img src="https://github.com/user-attachments/assets/fd7a724b-cb44-40ca-90bb-6391e99d0209" alt="php" width="48" height="48" />
         <br>php
+      </td>
+       <td align="center" width="12.5%">
+        <img src="https://github.com/user-attachments/assets/1a4bd611-8b9e-427d-92cf-6051374b50cc" alt="HTML5" width="48" height="48" />
+        <br>HTML
+      </td>
+         <td align="center" width="12.5%">
+        <img src="https://github.com/user-attachments/assets/f640d03b-4f54-441e-bd9b-8033ea3557e9" alt="Bootstrap" width="48" height="48" />
+        <br>Bootstrap
       </td>
     </tr>
    
