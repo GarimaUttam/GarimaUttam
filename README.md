@@ -131,8 +131,8 @@
         <br>Keras
       </td>
       <td align="center" width="12.5%">
-        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Tensorflow" width="48" height="48" />
-        <br>Sci-kit Learn
+        <img src="https://github.com/user-attachments/assets/72502168-b888-4efd-b992-a6b329032e92" alt="Scikit-learn" width="48" height="48" />
+        <br>Scikit-learn
       </td>      
     </tr>
    
