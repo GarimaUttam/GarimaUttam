@@ -28,7 +28,7 @@
         <br>Python
       </td>
       <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=go" alt="Go" width="65" height="65" />
+        <img src="https://github.com/user-attachments/assets/2ae20007-91ac-49ce-b264-c287ac7a97db" alt="Go" width="65" height="65" />
         <br>Golang
       </td>
       <td align="center" width="12.5%">
@@ -149,19 +149,19 @@
         <br>MySQL
       </td>
       <td align="center" width="12.5%">
-         <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="48" height="48" />
+         <img src="https://github.com/user-attachments/assets/6a2887c0-d46c-4522-83d5-fc1d9c886483" alt="PostgreSQL" width="48" height="48" />
         <br>PostgreSQL
       </td>
       <td align="center" width="12.5%">
-         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
+         <img src="https://github.com/user-attachments/assets/2d637cc5-a30c-4c49-ba1e-cb4a70a00b81" alt="MongoDB" width="48" height="48" />
         <br>MongoDB
       </td>
       <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="48" height="48" />
+        <img src="https://github.com/user-attachments/assets/2c299a1c-6587-4f57-a17e-76be810ed24c" alt="Firebase" width="48" height="48" />
         <br>Firebase
       </td>
        <td align="center" width="12.5%">
-        <img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" width="48" height="48" />
+        <img src="https://github.com/user-attachments/assets/3a8565d9-baa6-42bb-be16-e7894376f39c" alt="Hibernate" width="48" height="48" />
         <br>Hibernate
       </td>
        <td align="center" width="12.5%">
@@ -169,20 +169,16 @@
         <br>Docker
       </td>
       <td align="center" width="12.5%">
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="48" height="48" />
+        <img src="https://github.com/user-attachments/assets/ed871d2e-b8a1-4b75-ab80-7fc6ed3f9de1" alt="Git" width="48" height="48" />
         <br>Git
       </td>
       <td align="center" width="12.5%">
-         <img src="https://skillicons.dev/icons?i=git" alt="PostgreSQL" width="48" height="48" />
-        <br>PostgreSQL
+         <img src="https://github.com/user-attachments/assets/1081b610-3ed3-4865-b8cf-b0cb74297ed4" alt="Postman" width="48" height="48" />
+        <br>Postman
       </td>
       <td align="center" width="12.5%">
-         <img src="https://skillicons.dev/icons?i=postman" alt="PostgreSQL" width="48" height="48" />
-        <br>PostgreSQL
-      </td>
-      <td align="center" width="12.5%">
-         <img src="https://skillicons.dev/icons?i=figma" alt="PostgreSQL" width="48" height="48" />
-        <br>PostgreSQL
+         <img src="https://github.com/user-attachments/assets/aa280fdf-2795-41cd-b8ec-cc43495c2fb7" alt="Figma" width="48" height="48" />
+        <br>Figma
       </td>
     </tr>
    
