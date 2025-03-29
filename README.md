@@ -140,7 +140,7 @@
 </div>
 </div>
 
-### ⚙️ Databses & Tools
+### ⚙️ Databases & Tools
 <div align="center">
   <table>
     <tr>
