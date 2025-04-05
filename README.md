@@ -4,7 +4,7 @@
 - 🏫 **B.Tech in ECE** @ IIITDM Jabalpur 
 - 🏆 **JENESYS 2024 Ambassador** (Top 12 selected from India)
 - 📚 **Amazon ML Summer School 2024** Scholar
-- 💻 **Competitive Programmer** (Knight @ LeetCode, Specialist @ Codeforces)
+- 💻 **Competitive Programmer**
 - 🚀 **Full-Stack Developer**
 - 🤖 **ML Enthusiast** 
 
