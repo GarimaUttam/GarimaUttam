@@ -2,7 +2,7 @@
 
 ## 🎓 About Me
 - 🏫 **B.Tech in ECE** @ IIITDM Jabalpur 
-- 🏆 **JENESYS 2024 Ambassador** (Top 12 selected from India)
+- 🏆 **JENESYS 2024 Ambassador** (Top 12 selected from India(Science & Technology))
 - 📚 **Amazon ML Summer School 2024** Scholar
 - 💻 **Competitive Programmer**
 - 🚀 **Full-Stack Developer**
